@@ -65,3 +65,7 @@ I am Vlad Gerasimov. You can find out more about me  at [Vladstudio.com](http://
 Please send your comments, compliments and complaints to [vladstudio@gmail.com](mailto:vladstudio@gmail.com).
 
 vPass has been inspired by [SuperGenPass](http://supergenpass.com/).
+
+----
+
+*For users who need to keep using vPass v.1, it's here - <https://www.vpass.info/1/>. I recommend switching to v.2 although it means changing all your password (which is actually a good idea from time to time). The v.1 generator did not validate for including most required types of characters (lowercase, uppercase, digits, special), which caused problems on some sites.*
