@@ -11,7 +11,7 @@ Now you can create unique secure password for any website, and you only have to 
 **Your master password never leaves your device.** vPass is 100% client-side, pure Javascript, no data is sent to server. It's just a webpage, so it works on Windows, Mac OS X, Linux, Android, iOS, Windows Phone, webOS, and any future OS too.
 
 * [View in browser](https://www.vpass.info/2/vpass.html)
-* [Download Google Chrome extension](https://chrome.google.com/webstore/detail/vpass/abadcojegfgglajifpanpaccmmiefoid)
+* [Download Google Chrome extension](https://chrome.google.com/webstore/detail/vpass-2/nflchmhdffaacecceakebjfiiclbnean)
 * [Download Safari extension](https://www.vpass.info/2/e-safari/vpass.safariextz)
 * [Download Opera extension](https://www.vpass.info/2/e-opera/vpass.oex)
 * [Download Firefox extension](https://www.vpass.info/2/e-firefox/vpass.xpi)
