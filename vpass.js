@@ -158,7 +158,8 @@ vpass.generate = function(e)
 	result.className = '';
 	result.value = encrypted;
 	result.focus();
-	result.select();
+	result.setSelectionRange(0, result.value.length);
+	//result.select();
 	Mousetrap.unbind('enter');
 	if (e.preventDefault) {
         e.preventDefault();
